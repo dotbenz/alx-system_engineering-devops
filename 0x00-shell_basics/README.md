@@ -5,5 +5,6 @@
 5)Created a script that displays current directory including hidden files
 6)Created a script that display current directory content in long format with user and group IDs displayed numerically and hidden files
 7) Created a script that creates a directory named my-first-directory in the /tmp/ directory.
-8) Moved the file betty from /tmp/ to /tmp/my-first-directory.
-9) 
+8)Created a script that Moved the file betty from /tmp/ to /tmp/my-first-directory.
+9)Created a script that deleted the file betty
+10) 
