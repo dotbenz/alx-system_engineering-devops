@@ -9,4 +9,5 @@
 9)Created a script that deleted the file betty
 10)Created a script that deleted the directory /tmp/my-first-directory/
 11)Created a script that changes the working directory to the previous one
-12) 
+12)Created a script that lists all the files in the current directory and parent of the working directory and the /boot
+13)Created a script that prints the file type /tmp/iamafile
