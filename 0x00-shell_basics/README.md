@@ -8,4 +8,5 @@
 8)Created a script that Moved the file betty from /tmp/ to /tmp/my-first-directory.
 9)Created a script that deleted the file betty
 10)Created a script that deleted the directory /tmp/my-first-directory/
-11) 
+11)Created a script that changes the working directory to the previous one
+12) 
