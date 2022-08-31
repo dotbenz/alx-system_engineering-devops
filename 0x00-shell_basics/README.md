@@ -7,4 +7,5 @@
 7) Created a script that creates a directory named my-first-directory in the /tmp/ directory.
 8)Created a script that Moved the file betty from /tmp/ to /tmp/my-first-directory.
 9)Created a script that deleted the file betty
-10) 
+10)Created a script that deleted the directory /tmp/my-first-directory/
+11) 
