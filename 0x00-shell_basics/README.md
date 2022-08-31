@@ -12,4 +12,4 @@
 12)Created a script that lists all the files in the current directory and parent of the working directory and the /boot
 13)Created a script that prints the file type /tmp/iamafile
 14) Created a symbolic link to /bin/ls named __ls__
-
+15) Created a script that copies all the HTML ifiles from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
